@@ -1,0 +1,13 @@
+name: myfirstshinyapp
+title: myfirstshinyapp
+username:
+account: markusnam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8317719
+bundleId: 6848544
+url: https://markusnam.shinyapps.io/myfirstshinyapp/
+when: 1676447448.5803
+lastSyncTime: 1676447448.58032
+asMultiple: FALSE
+asStatic: FALSE
